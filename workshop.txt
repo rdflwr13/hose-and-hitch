@@ -1,6 +1,6 @@
 version=1
 title=Hose & Hitch [B42]
-description=[b]Things I miss in vanilla Build 42, in one mod. Everything goes through the game's own menus.[/b]
+description=Things I miss in vanilla Build 42, in one mod. Everything goes through the game's own menus.
 description=I didn't want a separate mod for every little thing, so I'm putting what I miss in vanilla into one mod and will keep adding to it. I keep it close to the base game: realistic, without extra hassle.
 description=Ideas are welcome.
 description=Tested on a dedicated server and in singleplayer.
