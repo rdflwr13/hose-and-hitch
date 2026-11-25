@@ -10,14 +10,12 @@ A Project Zomboid Build 42 mod. Vanilla-style common sense, everything through t
 
 Every language in the game.
 
-![Connecting a fuel barrel to a generator](images/gif_generator_barrel_hq.gif)
-![Hoisting a barrel onto the roof](images/gif_hoist_barrel_hq.gif)
+![Connecting a fuel barrel to a generator](images/gif_generator_barrel_r.gif)
+![Hoisting a barrel onto the roof](images/gif_hoist_barrel_r.gif)
 
-![Pickups and a trailer](images/gif_hitch_pickups_hq.gif)
-![Station wagon, camper and tank](images/gif_hitch_camper_tank_hq.gif)
-![Vans](images/gif_hitch_vans_hq.gif)
-
-Not compatible with Knox Water: both feed house taps from roof barrels.
+![Pickups and a trailer](images/gif_hitch_pickups_r.gif)
+![Station wagon, camper and tank](images/gif_hitch_camper_tank_r.gif)
+![Vans](images/gif_hitch_vans_r.gif)
 
 ## License
 
