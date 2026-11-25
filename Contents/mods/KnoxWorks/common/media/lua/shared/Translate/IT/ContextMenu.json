@@ -1,0 +1,12 @@
+{
+    "ContextMenu_KW_LinkBarrel": "Collega il barile di carburante",
+    "ContextMenu_KW_UnlinkBarrel": "Scollega il barile di carburante",
+    "ContextMenu_KW_WaterLink": "Collega all'impianto idrico della casa",
+    "ContextMenu_KW_WaterUnlink": "Scollega dall'impianto idrico della casa",
+    "ContextMenu_KW_Hoist": "Issa il barile sul tetto",
+    "ContextMenu_KW_Lower": "Cala il barile dal tetto",
+    "ContextMenu_KW_TapInfo": "Impianto idrico della casa",
+    "ContextMenu_KW_PourFromBarrel": "Versa benzina dal barile",
+    "ContextMenu_KW_Chain": "Aggancia al timone: %1",
+    "ContextMenu_KW_Unchain": "Sgancia dal timone: %1"
+}

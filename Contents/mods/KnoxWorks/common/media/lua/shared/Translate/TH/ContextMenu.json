@@ -1,0 +1,12 @@
+{
+    "ContextMenu_KW_LinkBarrel": "ต่อถังน้ำมัน",
+    "ContextMenu_KW_UnlinkBarrel": "ถอดถังน้ำมัน",
+    "ContextMenu_KW_WaterLink": "ต่อเข้ากับระบบน้ำของบ้าน",
+    "ContextMenu_KW_WaterUnlink": "ถอดออกจากระบบน้ำของบ้าน",
+    "ContextMenu_KW_Hoist": "ชักถังขึ้นหลังคา",
+    "ContextMenu_KW_Lower": "หย่อนถังลงจากหลังคา",
+    "ContextMenu_KW_TapInfo": "ระบบน้ำของบ้าน",
+    "ContextMenu_KW_PourFromBarrel": "เทน้ำมันเบนซินจากถัง",
+    "ContextMenu_KW_Chain": "พ่วงด้วยคานลาก: %1",
+    "ContextMenu_KW_Unchain": "ปลดออกจากคานลาก: %1"
+}

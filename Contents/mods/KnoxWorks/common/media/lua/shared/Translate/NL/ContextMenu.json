@@ -1,0 +1,12 @@
+{
+    "ContextMenu_KW_LinkBarrel": "Brandstofvat aansluiten",
+    "ContextMenu_KW_UnlinkBarrel": "Brandstofvat loskoppelen",
+    "ContextMenu_KW_WaterLink": "Aansluiten op de watervoorziening van het huis",
+    "ContextMenu_KW_WaterUnlink": "Loskoppelen van de watervoorziening van het huis",
+    "ContextMenu_KW_Hoist": "Vat op het dak hijsen",
+    "ContextMenu_KW_Lower": "Vat van het dak laten zakken",
+    "ContextMenu_KW_TapInfo": "Watervoorziening van het huis",
+    "ContextMenu_KW_PourFromBarrel": "Benzine uit het vat gieten",
+    "ContextMenu_KW_Chain": "Aan de dissel koppelen: %1",
+    "ContextMenu_KW_Unchain": "Van de dissel loskoppelen: %1"
+}

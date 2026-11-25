@@ -1,0 +1,12 @@
+{
+    "ContextMenu_KW_LinkBarrel": "Connecta el barril de combustible",
+    "ContextMenu_KW_UnlinkBarrel": "Desconnecta el barril de combustible",
+    "ContextMenu_KW_WaterLink": "Connecta al subministrament d'aigua de la casa",
+    "ContextMenu_KW_WaterUnlink": "Desconnecta del subministrament d'aigua de la casa",
+    "ContextMenu_KW_Hoist": "Puja el barril a la teulada",
+    "ContextMenu_KW_Lower": "Baixa el barril de la teulada",
+    "ContextMenu_KW_TapInfo": "Subministrament d'aigua de la casa",
+    "ContextMenu_KW_PourFromBarrel": "Aboca gasolina del barril",
+    "ContextMenu_KW_Chain": "Enganxa a la barra: %1",
+    "ContextMenu_KW_Unchain": "Desenganxa de la barra: %1"
+}

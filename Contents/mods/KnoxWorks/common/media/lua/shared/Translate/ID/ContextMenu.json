@@ -1,0 +1,12 @@
+{
+    "ContextMenu_KW_LinkBarrel": "Sambungkan tong bahan bakar",
+    "ContextMenu_KW_UnlinkBarrel": "Lepaskan tong bahan bakar",
+    "ContextMenu_KW_WaterLink": "Sambungkan ke pasokan air rumah",
+    "ContextMenu_KW_WaterUnlink": "Lepaskan dari pasokan air rumah",
+    "ContextMenu_KW_Hoist": "Kerek tong ke atap",
+    "ContextMenu_KW_Lower": "Turunkan tong dari atap",
+    "ContextMenu_KW_TapInfo": "Pasokan air rumah",
+    "ContextMenu_KW_PourFromBarrel": "Tuang bensin dari tong",
+    "ContextMenu_KW_Chain": "Kaitkan ke batang penarik: %1",
+    "ContextMenu_KW_Unchain": "Lepaskan dari batang penarik: %1"
+}

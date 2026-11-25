@@ -1,0 +1,12 @@
+{
+    "ContextMenu_KW_LinkBarrel": "Podłącz beczkę z paliwem",
+    "ContextMenu_KW_UnlinkBarrel": "Odłącz beczkę z paliwem",
+    "ContextMenu_KW_WaterLink": "Podłącz do instalacji wodnej domu",
+    "ContextMenu_KW_WaterUnlink": "Odłącz od instalacji wodnej domu",
+    "ContextMenu_KW_Hoist": "Wciągnij beczkę na dach",
+    "ContextMenu_KW_Lower": "Opuść beczkę z dachu",
+    "ContextMenu_KW_TapInfo": "Instalacja wodna domu",
+    "ContextMenu_KW_PourFromBarrel": "Przelej benzynę z beczki",
+    "ContextMenu_KW_Chain": "Zaczep na dyszel: %1",
+    "ContextMenu_KW_Unchain": "Odczep od dyszla: %1"
+}

@@ -1,0 +1,12 @@
+{
+    "ContextMenu_KW_LinkBarrel": "燃料ドラム缶を接続",
+    "ContextMenu_KW_UnlinkBarrel": "燃料ドラム缶を外す",
+    "ContextMenu_KW_WaterLink": "家の給水に接続",
+    "ContextMenu_KW_WaterUnlink": "家の給水から外す",
+    "ContextMenu_KW_Hoist": "ドラム缶を屋根に引き上げる",
+    "ContextMenu_KW_Lower": "ドラム缶を屋根から下ろす",
+    "ContextMenu_KW_TapInfo": "家の給水",
+    "ContextMenu_KW_PourFromBarrel": "ドラム缶からガソリンを注ぐ",
+    "ContextMenu_KW_Chain": "牽引棒で連結: %1",
+    "ContextMenu_KW_Unchain": "牽引棒から外す: %1"
+}

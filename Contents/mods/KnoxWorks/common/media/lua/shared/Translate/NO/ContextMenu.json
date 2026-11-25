@@ -1,0 +1,12 @@
+{
+    "ContextMenu_KW_LinkBarrel": "Koble til drivstofftønne",
+    "ContextMenu_KW_UnlinkBarrel": "Koble fra drivstofftønne",
+    "ContextMenu_KW_WaterLink": "Koble til husets vannforsyning",
+    "ContextMenu_KW_WaterUnlink": "Koble fra husets vannforsyning",
+    "ContextMenu_KW_Hoist": "Heis tønnen opp på taket",
+    "ContextMenu_KW_Lower": "Fir tønnen ned fra taket",
+    "ContextMenu_KW_TapInfo": "Husets vannforsyning",
+    "ContextMenu_KW_PourFromBarrel": "Hell bensin fra tønnen",
+    "ContextMenu_KW_Chain": "Koble på draget: %1",
+    "ContextMenu_KW_Unchain": "Koble fra draget: %1"
+}

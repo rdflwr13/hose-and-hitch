@@ -1,0 +1,12 @@
+{
+    "ContextMenu_KW_LinkBarrel": "Подключить бочку с топливом",
+    "ContextMenu_KW_UnlinkBarrel": "Отключить бочку с топливом",
+    "ContextMenu_KW_WaterLink": "Подключить к водопроводу дома",
+    "ContextMenu_KW_WaterUnlink": "Отключить от водопровода дома",
+    "ContextMenu_KW_Hoist": "Поднять бочку на крышу",
+    "ContextMenu_KW_Lower": "Спустить бочку с крыши",
+    "ContextMenu_KW_TapInfo": "Водопровод дома",
+    "ContextMenu_KW_PourFromBarrel": "Перелить бензин из бочки",
+    "ContextMenu_KW_Chain": "Прицепить на дышло: %1",
+    "ContextMenu_KW_Unchain": "Снять с дышла: %1"
+}

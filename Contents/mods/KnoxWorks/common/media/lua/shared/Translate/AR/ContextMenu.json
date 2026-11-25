@@ -1,0 +1,12 @@
+{
+    "ContextMenu_KW_LinkBarrel": "Conectar barril de combustible",
+    "ContextMenu_KW_UnlinkBarrel": "Desconectar barril de combustible",
+    "ContextMenu_KW_WaterLink": "Conectar al suministro de agua de la casa",
+    "ContextMenu_KW_WaterUnlink": "Desconectar del suministro de agua de la casa",
+    "ContextMenu_KW_Hoist": "Subir el barril al tejado",
+    "ContextMenu_KW_Lower": "Bajar el barril del tejado",
+    "ContextMenu_KW_TapInfo": "Suministro de agua de la casa",
+    "ContextMenu_KW_PourFromBarrel": "Verter nafta del barril",
+    "ContextMenu_KW_Chain": "Enganchar con la barra: %1",
+    "ContextMenu_KW_Unchain": "Desenganchar de la barra: %1"
+}

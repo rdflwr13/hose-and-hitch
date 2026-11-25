@@ -1,0 +1,12 @@
+{
+    "ContextMenu_KW_LinkBarrel": "Kraftstofffass anschließen",
+    "ContextMenu_KW_UnlinkBarrel": "Kraftstofffass trennen",
+    "ContextMenu_KW_WaterLink": "An die Wasserversorgung des Hauses anschließen",
+    "ContextMenu_KW_WaterUnlink": "Von der Wasserversorgung des Hauses trennen",
+    "ContextMenu_KW_Hoist": "Fass aufs Dach hochziehen",
+    "ContextMenu_KW_Lower": "Fass vom Dach herunterlassen",
+    "ContextMenu_KW_TapInfo": "Wasserversorgung des Hauses",
+    "ContextMenu_KW_PourFromBarrel": "Benzin aus dem Fass einfüllen",
+    "ContextMenu_KW_Chain": "An die Deichsel hängen: %1",
+    "ContextMenu_KW_Unchain": "Von der Deichsel lösen: %1"
+}

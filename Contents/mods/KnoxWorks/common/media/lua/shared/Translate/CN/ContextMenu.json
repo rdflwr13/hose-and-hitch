@@ -1,0 +1,12 @@
+{
+    "ContextMenu_KW_LinkBarrel": "连接燃油桶",
+    "ContextMenu_KW_UnlinkBarrel": "断开燃油桶",
+    "ContextMenu_KW_WaterLink": "接入房屋供水",
+    "ContextMenu_KW_WaterUnlink": "断开房屋供水",
+    "ContextMenu_KW_Hoist": "把桶吊上屋顶",
+    "ContextMenu_KW_Lower": "把桶从屋顶放下",
+    "ContextMenu_KW_TapInfo": "房屋供水",
+    "ContextMenu_KW_PourFromBarrel": "从桶里倒汽油",
+    "ContextMenu_KW_Chain": "用拖杆挂接：%1",
+    "ContextMenu_KW_Unchain": "从拖杆解开：%1"
+}

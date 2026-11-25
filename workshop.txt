@@ -1,0 +1,96 @@
+version=1
+title=Hose & Hitch [B42]
+description=Things I miss in vanilla Build 42, in one mod. Everything goes through the game's own menus.
+description=
+description=Tested on a dedicated server and in singleplayer.
+description=
+description=I didn't want a separate mod for every little thing, so I'm putting what I miss in vanilla into one mod and will keep adding to it. I keep it close to the base game: realistic, without extra hassle.
+description=
+description=Ideas are welcome.
+description=
+description=[b]Fuel barrel for a generator[/b]
+description=[list]
+description=[*]A barrel of gas within 2 tiles of the generator and a rubber hose. Right-click the generator or the barrel: [b]Connect Fuel Barrel[/b].
+description=[*]Barrel higher than the generator (crate, table, floor above): gas flows by itself. Barrel on the ground: [b]Pour Fuel from the Barrel[/b] with the generator off.
+description=[*]In an open barrel gas evaporates, and rain spoils it.
+description=[/list]
+description=
+description=[b]Roof barrels for the house[/b]
+description=[list]
+description=[*]Stand outside, up to 2 tiles from the wall, with a barrel, a rope and a pipe wrench: [b]Hoist Barrel onto the Roof[/b]. Rain fills it.
+description=[*]Once the water is shut off, sinks, baths, showers and toilets below get water from the roof barrels.
+description=[*]A barrel on an upper floor indoors can be connected with a pipe wrench. Right-click a tap to see how much water is left.
+description=[*]To take a barrel back down: [b]Lower Barrel from the Roof[/b], outside by the wall.
+description=[/list]
+description=[b]Limitations:[/b]
+description=[list]
+description=[*]Sloped roof: you can't climb onto it, so the barrel can only be hoisted from the ground.
+description=[*]Flat roof: you can carry a barrel up and place it by hand, or hoist it from the ground. But a barrel hoisted from the ground isn't visible on a flat roof.
+description=[/list]
+description=
+description=[b]Barrels on crates[/b]
+description=[list]
+description=[*]A barrel goes on a crate, a table or an orange barrel.
+description=[*]Any barrel holds 400 L.
+description=[/list]
+description=
+description=[b]Double tow[/b]
+description=[list]
+description=[*]Behind a towed car you can hitch a trailer or another car. Behind a trailer, another trailer.
+description=[*]Park it right behind, stand at the back of the towed one and open the vehicle menu ([b]V[/b]): [b]Hitch on the drawbar[/b].
+description=[*]Hitch in any order: if you hitch a car to a pair that's already towing, the mod gives the front pair the game's own hitch and puts the drawbar at the back.
+description=[*]A heavy single-axle trailer keeps its nose up at hitch height instead of dragging on the ground.
+description=[/list]
+description=
+description=[b]Bigger trunks[/b]
+description=[list]
+description=[*]Car trunks, truck beds and trailer beds hold twice as much. A real trailer carries hundreds of kilos, not a hundred.
+description=[*]Roof racks and rear racks from the tuning mod hold a quarter more: a roof can't take much.
+description=[*]Works with modded vehicles that use the usual trunk too.
+description=[/list]
+description=
+description=[img]https://raw.githubusercontent.com/rdflwr13/hose-and-hitch/main/images/gif_hitch_pickups.gif[/img]
+description=[img]https://raw.githubusercontent.com/rdflwr13/hose-and-hitch/main/images/gif_hitch_camper_tank.gif[/img]
+description=[img]https://raw.githubusercontent.com/rdflwr13/hose-and-hitch/main/images/gif_hitch_vans.gif[/img]
+description=
+description=Everything is in the right-click menu. If you're missing something, the option is red and the tooltip says what you need.
+description=
+description=[b]Compatibility[/b]
+description=[list]
+description=[*]Don't use it together with [b]Knox Water[/b]: both mods feed house taps from roof barrels and will get in each other's way.
+description=[*]Works with modded cars and trailers that use the game's usual hitch.
+description=[/list]
+description=
+description=[b]Languages[/b]: every language in the game. Not translated by native speakers, so if something reads wrong, let me know.
+description=
+description=[b]FAQ[/b]
+description=[list]
+description=[*][b]Does it work in multiplayer?[/b] Yes, tested on a dedicated server.
+description=[*][b]Can I add it to an existing save?[/b] Yes, no new game needed.
+description=[*][b]Can I remove it?[/b] Yes. Generators and taps work like vanilla again, and whatever is in the barrels stays.
+description=[*][b]The barrel won't connect to the generator.[/b] You need a rubber hose, the barrel within 2 tiles of the generator, on the same floor or one floor up, and nothing but gas in it.
+description=[*][b]Does the generator refuel while I'm away?[/b] While that area is loaded, yes. Far from players everything waits, same as vanilla.
+description=[*][b]No water at the tap.[/b] Water only flows down: the tap has to be lower than the barrel. Only the taps the house was built with work. A sink you moved isn't fed by the barrels.
+description=[*][b]Is the tap water drinkable?[/b] Yes, same as vanilla plumbing.
+description=[*][b]How many trailers can I tow?[/b] Two in a row: a vehicle, a trailer, and one more trailer or car.
+description=[/list]
+description=
+description=Thanks in advance for bug reports. Post bugs and ideas in the comments or in Discussions. I'll fix things as I can.
+description=
+description=Mods I play with on my server:
+description=[list]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3800989007]Stay With Me[/url]: a companion, my other mod
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3217685049]PZK Vanilla Plus Car Pack[/url]: cars and trailers
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3403490889]Standardized Vehicle Upgrades 3 - Core[/url]: vehicle upgrades
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3304582091]Standardized Vehicle Upgrades 3 - Vanilla[/url]: upgrades for vanilla cars
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3402491515]Tsar's Common Library[/url]: library for vehicle mods
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3543229299]PROJECT RV Interior[/url]: RV interiors
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3806955469]True Cargo[/url]: vehicle cargo
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2447729538]Fluffy Hair[/url]: hairstyles
+description=[/list]
+description=
+description=Do not reupload or reuse code or assets without permission.
+description=
+description=Mod ID: KnoxWorks
+tags=Build 42;Building;Misc;Vehicles
+visibility=public

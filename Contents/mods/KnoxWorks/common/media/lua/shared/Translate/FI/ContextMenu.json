@@ -1,0 +1,12 @@
+{
+    "ContextMenu_KW_LinkBarrel": "Yhdistä polttoainetynnyri",
+    "ContextMenu_KW_UnlinkBarrel": "Irrota polttoainetynnyri",
+    "ContextMenu_KW_WaterLink": "Liitä talon vedenjakeluun",
+    "ContextMenu_KW_WaterUnlink": "Irrota talon vedenjakelusta",
+    "ContextMenu_KW_Hoist": "Nosta tynnyri katolle",
+    "ContextMenu_KW_Lower": "Laske tynnyri katolta",
+    "ContextMenu_KW_TapInfo": "Talon vedenjakelu",
+    "ContextMenu_KW_PourFromBarrel": "Kaada bensiiniä tynnyristä",
+    "ContextMenu_KW_Chain": "Kytke vetoaisaan: %1",
+    "ContextMenu_KW_Unchain": "Irrota vetoaisasta: %1"
+}

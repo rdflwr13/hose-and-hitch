@@ -1,0 +1,12 @@
+{
+    "ContextMenu_KW_LinkBarrel": "Yakıt varilini bağla",
+    "ContextMenu_KW_UnlinkBarrel": "Yakıt varilinin bağlantısını kes",
+    "ContextMenu_KW_WaterLink": "Evin su tesisatına bağla",
+    "ContextMenu_KW_WaterUnlink": "Evin su tesisatından ayır",
+    "ContextMenu_KW_Hoist": "Varili çatıya çek",
+    "ContextMenu_KW_Lower": "Varili çatıdan indir",
+    "ContextMenu_KW_TapInfo": "Evin su tesisatı",
+    "ContextMenu_KW_PourFromBarrel": "Varilden benzin dök",
+    "ContextMenu_KW_Chain": "Çeki demirine bağla: %1",
+    "ContextMenu_KW_Unchain": "Çeki demirinden çöz: %1"
+}

@@ -1,0 +1,12 @@
+{
+    "ContextMenu_KW_LinkBarrel": "Ligar barril de combustível",
+    "ContextMenu_KW_UnlinkBarrel": "Desligar barril de combustível",
+    "ContextMenu_KW_WaterLink": "Ligar ao abastecimento de água da casa",
+    "ContextMenu_KW_WaterUnlink": "Desligar do abastecimento de água da casa",
+    "ContextMenu_KW_Hoist": "Içar o barril para o telhado",
+    "ContextMenu_KW_Lower": "Baixar o barril do telhado",
+    "ContextMenu_KW_TapInfo": "Abastecimento de água da casa",
+    "ContextMenu_KW_PourFromBarrel": "Despejar gasolina do barril",
+    "ContextMenu_KW_Chain": "Engatar na barra de reboque: %1",
+    "ContextMenu_KW_Unchain": "Desengatar da barra de reboque: %1"
+}

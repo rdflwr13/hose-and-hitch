@@ -1,0 +1,12 @@
+{
+    "ContextMenu_KW_LinkBarrel": "Під'єднати бочку з пальним",
+    "ContextMenu_KW_UnlinkBarrel": "Від'єднати бочку з пальним",
+    "ContextMenu_KW_WaterLink": "Під'єднати до водопостачання будинку",
+    "ContextMenu_KW_WaterUnlink": "Від'єднати від водопостачання будинку",
+    "ContextMenu_KW_Hoist": "Підняти бочку на дах",
+    "ContextMenu_KW_Lower": "Спустити бочку з даху",
+    "ContextMenu_KW_TapInfo": "Водопостачання будинку",
+    "ContextMenu_KW_PourFromBarrel": "Перелити бензин із бочки",
+    "ContextMenu_KW_Chain": "Причепити на дишло: %1",
+    "ContextMenu_KW_Unchain": "Відчепити від дишла: %1"
+}

@@ -1,0 +1,12 @@
+{
+    "ContextMenu_KW_LinkBarrel": "연료 드럼통 연결",
+    "ContextMenu_KW_UnlinkBarrel": "연료 드럼통 분리",
+    "ContextMenu_KW_WaterLink": "집 급수에 연결",
+    "ContextMenu_KW_WaterUnlink": "집 급수에서 분리",
+    "ContextMenu_KW_Hoist": "드럼통을 지붕으로 끌어올리기",
+    "ContextMenu_KW_Lower": "드럼통을 지붕에서 내리기",
+    "ContextMenu_KW_TapInfo": "집 급수",
+    "ContextMenu_KW_PourFromBarrel": "드럼통에서 휘발유 붓기",
+    "ContextMenu_KW_Chain": "견인봉에 연결: %1",
+    "ContextMenu_KW_Unchain": "견인봉에서 분리: %1"
+}

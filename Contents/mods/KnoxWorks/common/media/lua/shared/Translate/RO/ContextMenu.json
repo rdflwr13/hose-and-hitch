@@ -1,0 +1,12 @@
+{
+    "ContextMenu_KW_LinkBarrel": "Conectează butoiul de combustibil",
+    "ContextMenu_KW_UnlinkBarrel": "Deconectează butoiul de combustibil",
+    "ContextMenu_KW_WaterLink": "Conectează la alimentarea cu apă a casei",
+    "ContextMenu_KW_WaterUnlink": "Deconectează de la alimentarea cu apă a casei",
+    "ContextMenu_KW_Hoist": "Ridică butoiul pe acoperiș",
+    "ContextMenu_KW_Lower": "Coboară butoiul de pe acoperiș",
+    "ContextMenu_KW_TapInfo": "Alimentarea cu apă a casei",
+    "ContextMenu_KW_PourFromBarrel": "Toarnă benzină din butoi",
+    "ContextMenu_KW_Chain": "Prinde de oiște: %1",
+    "ContextMenu_KW_Unchain": "Desprinde de pe oiște: %1"
+}

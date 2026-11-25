@@ -1,0 +1,12 @@
+{
+    "ContextMenu_KW_LinkBarrel": "Tilslut brændstoftønde",
+    "ContextMenu_KW_UnlinkBarrel": "Frakobl brændstoftønde",
+    "ContextMenu_KW_WaterLink": "Tilslut husets vandforsyning",
+    "ContextMenu_KW_WaterUnlink": "Frakobl husets vandforsyning",
+    "ContextMenu_KW_Hoist": "Hejs tønden op på taget",
+    "ContextMenu_KW_Lower": "Fir tønden ned fra taget",
+    "ContextMenu_KW_TapInfo": "Husets vandforsyning",
+    "ContextMenu_KW_PourFromBarrel": "Hæld benzin fra tønden",
+    "ContextMenu_KW_Chain": "Kobl på trækstangen: %1",
+    "ContextMenu_KW_Unchain": "Kobl fra trækstangen: %1"
+}

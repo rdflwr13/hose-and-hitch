@@ -1,0 +1,12 @@
+{
+    "ContextMenu_KW_LinkBarrel": "Üzemanyagos hordó csatlakoztatása",
+    "ContextMenu_KW_UnlinkBarrel": "Üzemanyagos hordó lecsatlakoztatása",
+    "ContextMenu_KW_WaterLink": "Csatlakoztatás a ház vízellátásához",
+    "ContextMenu_KW_WaterUnlink": "Leválasztás a ház vízellátásáról",
+    "ContextMenu_KW_Hoist": "Hordó felhúzása a tetőre",
+    "ContextMenu_KW_Lower": "Hordó leengedése a tetőről",
+    "ContextMenu_KW_TapInfo": "A ház vízellátása",
+    "ContextMenu_KW_PourFromBarrel": "Benzin töltése a hordóból",
+    "ContextMenu_KW_Chain": "Rákötés a vonórúdra: %1",
+    "ContextMenu_KW_Unchain": "Lekötés a vonórúdról: %1"
+}

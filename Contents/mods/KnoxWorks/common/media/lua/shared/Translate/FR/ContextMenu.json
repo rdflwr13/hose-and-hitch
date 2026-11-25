@@ -1,0 +1,12 @@
+{
+    "ContextMenu_KW_LinkBarrel": "Brancher le baril de carburant",
+    "ContextMenu_KW_UnlinkBarrel": "Débrancher le baril de carburant",
+    "ContextMenu_KW_WaterLink": "Raccorder à l'alimentation en eau de la maison",
+    "ContextMenu_KW_WaterUnlink": "Débrancher de l'alimentation en eau de la maison",
+    "ContextMenu_KW_Hoist": "Hisser le baril sur le toit",
+    "ContextMenu_KW_Lower": "Descendre le baril du toit",
+    "ContextMenu_KW_TapInfo": "Alimentation en eau de la maison",
+    "ContextMenu_KW_PourFromBarrel": "Verser l'essence du baril",
+    "ContextMenu_KW_Chain": "Atteler au timon : %1",
+    "ContextMenu_KW_Unchain": "Dételer du timon : %1"
+}

@@ -1,0 +1,12 @@
+{
+    "ContextMenu_KW_LinkBarrel": "Connect Fuel Barrel",
+    "ContextMenu_KW_UnlinkBarrel": "Disconnect Fuel Barrel",
+    "ContextMenu_KW_WaterLink": "Connect to House Water Supply",
+    "ContextMenu_KW_WaterUnlink": "Disconnect from House Water Supply",
+    "ContextMenu_KW_Hoist": "Hoist Barrel onto the Roof",
+    "ContextMenu_KW_Lower": "Lower Barrel from the Roof",
+    "ContextMenu_KW_TapInfo": "House Water Supply",
+    "ContextMenu_KW_PourFromBarrel": "Pour Fuel from the Barrel",
+    "ContextMenu_KW_Chain": "Hitch on the drawbar: %1",
+    "ContextMenu_KW_Unchain": "Unhitch from the drawbar: %1"
+}

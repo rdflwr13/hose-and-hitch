@@ -1,0 +1,12 @@
+{
+    "ContextMenu_KW_LinkBarrel": "Připojit sud s palivem",
+    "ContextMenu_KW_UnlinkBarrel": "Odpojit sud s palivem",
+    "ContextMenu_KW_WaterLink": "Připojit k vodovodu domu",
+    "ContextMenu_KW_WaterUnlink": "Odpojit od vodovodu domu",
+    "ContextMenu_KW_Hoist": "Vytáhnout sud na střechu",
+    "ContextMenu_KW_Lower": "Spustit sud ze střechy",
+    "ContextMenu_KW_TapInfo": "Vodovod domu",
+    "ContextMenu_KW_PourFromBarrel": "Přelít benzín ze sudu",
+    "ContextMenu_KW_Chain": "Zapřáhnout na oj: %1",
+    "ContextMenu_KW_Unchain": "Odpřáhnout z oje: %1"
+}
