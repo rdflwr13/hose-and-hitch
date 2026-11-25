@@ -1,5 +1,7 @@
 # Hose & Hitch [B42]
 
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3845622264)
+
 A Project Zomboid Build 42 mod. Vanilla-style common sense, everything through the game's own menus:
 
 - **Fuel barrel for a generator.** Connect a barrel of gas to a generator with a rubber hose. Higher than the generator, gas flows by itself; on the ground you pour it by hand.
