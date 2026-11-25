@@ -10,6 +10,9 @@ A Project Zomboid Build 42 mod. Vanilla-style common sense, everything through t
 
 Every language in the game.
 
+![Connecting a fuel barrel to a generator](images/gif_generator_barrel.gif)
+![Hoisting a barrel onto the roof](images/gif_hoist_barrel.gif)
+
 ![Pickups and a trailer](images/gif_hitch_pickups.gif)
 ![Station wagon, camper and tank](images/gif_hitch_camper_tank.gif)
 ![Vans](images/gif_hitch_vans.gif)
