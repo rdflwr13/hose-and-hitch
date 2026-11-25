@@ -1,6 +1,6 @@
 version=1
 id=3845622264
-title=Hose & Hitch [B42]
+title=Hose & Hitch [B42] Generator Fuel, Roof Water, Double Tow
 description=Hose & Hitch adds what I was missing in vanilla Build 42: a generator fed from a barrel of gas, running water in the house after the shutoff, and a second trailer in tow. Everything goes through the game's own menus, no new windows. Works in singleplayer and on servers.
 description=
 description=[img]https://raw.githubusercontent.com/rdflwr13/hose-and-hitch/main/images/banner_fuel_line_en.png[/img]
